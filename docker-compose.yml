@@ -1,7 +1,6 @@
 # version of docker-compose
 version: "3"
 
-
 # services
 services:
     app:
