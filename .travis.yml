@@ -1,4 +1,3 @@
-# following tests will be checked everytime by travis when we commit code to github.
 language: python
 python: 
     - "3.6"
